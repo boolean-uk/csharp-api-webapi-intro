@@ -1,3 +1,15 @@
 # For more info on HTTP files go to https://aka.ms/vs/httpfile
 GET https://localhost:7105/Car
 
+
+###
+
+GET https://localhost:7105/Car/increasebyone/1
+
+###
+GET https://localhost:7105/Car/increasebyone/1
+###
+GET https://localhost:7105/Car/greaterthan/11
+
+###
+GET https://localhost:7105/Car/lessthan/3
